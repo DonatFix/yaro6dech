@@ -1,0 +1,4 @@
+// used in <Link> on old pdp
+window.allowedToUnmaskHiddenLinks = true;
+// used in <Link> on new pdp
+window.allowHiddenLinkDecoding = true;
